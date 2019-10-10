@@ -26,4 +26,4 @@ $plugin->version = 2019101001;
 $plugin->requires = 20190801;
 $plugin->component = 'tool_martygilbert';
 $plugin->maturity = MATURITY_ALPHA;
-$plugin->release = 'TODO';
+$plugin->release = '1.0';
