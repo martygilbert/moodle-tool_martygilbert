@@ -13,15 +13,15 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
- 
+
 /**
  * @package   tool_martygilbert
  * @copyright 2019, Marty Gilbert <martygilbert@gmail.com>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
- 
+
 defined('MOODLE_INTERNAL') || die();
- 
+
 $plugin->version = 2019101001;
 $plugin->requires = 20190801;
 $plugin->component = 'tool_martygilbert';
